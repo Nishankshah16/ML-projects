@@ -1,3 +1,3 @@
 This project is about Movie recommendation.
 To run this project go to code folder and run all the cells in Jupiter notebook You will get file similarity.pkl in code folder copy the file and paste in web app folder and then run the streamlit run app.py
-Thats it YOUR ALL SET.
+Thats it YOU ARE ALL SET.
